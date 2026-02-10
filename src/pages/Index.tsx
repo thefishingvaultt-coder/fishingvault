@@ -110,7 +110,9 @@ const Index = () => {
           </div>
 
           <a
-            href="#offer"
+            href="https://pay.hotmart.com/I104381009H"
+            target="_blank"
+            rel="noopener noreferrer"
             className="reveal-up w-full py-5 bg-forest text-bone text-sm tracking-[0.2em] uppercase font-bold text-center hover:bg-forest/80 transition-colors duration-300 block"
           >
             Access the Manual
@@ -280,9 +282,14 @@ const Index = () => {
                 <span className="font-serif text-5xl text-bone">$9</span>
               </div>
 
-              <button className="w-full py-6 bg-forest text-bone text-sm tracking-[0.25em] uppercase font-bold hover:bg-forest/80 transition-colors duration-300">
+              <a
+                href="https://pay.hotmart.com/I104381009H"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full py-6 bg-forest text-bone text-sm tracking-[0.25em] uppercase font-bold hover:bg-forest/80 transition-colors duration-300 block text-center"
+              >
                 Access the Manual
-              </button>
+              </a>
 
               <p className="text-center text-[10px] uppercase tracking-widest text-dust mt-6 font-sans">
                 Read carefully. Use selectively.
